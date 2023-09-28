@@ -25,8 +25,8 @@
     <nav class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600 shadow">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="/" class="flex items-center">
-                <img src="https://res.cloudinary.com/bluvapr/image/upload/v1603760801/zion/logo_uhsv7a.png" class="h-16 mr-3" alt="ZCC Logo" />
-                <span class="self-center lg:text-2xl text-base font-semibold text-gray-950 whitespace-nowrap dark:text-white uppercase">ZCC India</span>
+                <img src="logo" class="h-16 mr-3" alt="ZCC Logo" />
+                <span class="self-center lg:text-2xl text-base font-semibold text-gray-950 whitespace-nowrap dark:text-white uppercase">Filament Template</span>
             </a>
             <div class="flex md:order-2">
                 <a href="/admin/login" type="button" class="text-white dark:text-blue-800 dark:hover:bg-gray-100  hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 text-center mr-3 md:mr-0 bg-blue-950 dark:bg-gray-50 dark:font-extrabold" >
