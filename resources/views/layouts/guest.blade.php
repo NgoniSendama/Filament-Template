@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>ZCC Attendance</title>
+    <title>Filament Template</title>
 
     
     <link rel="shortcut icon" href="https://res.cloudinary.com/bluvapr/image/upload/v1603760801/zion/logo_uhsv7a.png" type="image/x-icon">
